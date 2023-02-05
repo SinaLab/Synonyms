@@ -4,6 +4,7 @@ The dataset is a set of 500 synsets (extracted from the Arabic Wordnet). Each sy
 License: MIT
 
 # Online Demo
+![Alt text](https://portal.sina.birzeit.edu/synonyms/synonyms_screenshot.PNG)
 You can try our algorithm using the demo link below <br />
 https://portal.sina.birzeit.edu/synonyms/
 
