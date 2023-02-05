@@ -10,5 +10,10 @@ https://portal.sina.birzeit.edu/synonyms/
 ![Alt text](https://portal.sina.birzeit.edu/synonyms/synonyms_screenshot.PNG)
 
 
+# Credits
+-------
+This research is funded by the Research Committee at Birzeit University (No. 2021/49)
 
-#
+# Citation
+-------
+Sana Ghanem, Mustafa Jarrar, Radi Jarrar, Ibrahim Bounhas: [A Benchmark and Scoring Algorithm for Enriching Arabic Synonyms](http://www.jarrar.info/publications/GJJB23.pdf). In Proceedings of the Global WordNet Conference (gwc2023), Donostia, January. 2023
