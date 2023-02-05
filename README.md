@@ -33,3 +33,6 @@ Sana Ghanem, Mustafa Jarrar, Radi Jarrar, Ibrahim Bounhas: [A Benchmark and Scor
         url={http://www.jarrar.info/publications/GJJB23.pdf}
     }
 
+
+# Contacts
+Mustafa Jarrar: [Linkedin](https://www.linkedin.com/in/jarrar) | [Twitter](https://twitter.com/mjarrar) | [Github](https://github.com/mustafajarrar) | [Mail](mjarrar@birzeit.edu)
