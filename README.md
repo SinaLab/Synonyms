@@ -7,9 +7,6 @@ License: CC-BY-4.0
 You can try our algorithm using the demo link below <br />
 https://sina.birzeit.edu/synonyms/
 
-![Alt text](https://sina.birzeit.edu/synonyms/)
-
-
 # Credits
 This research is funded by the Research Committee at Birzeit University (No. 2021/49)
 
